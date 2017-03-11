@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SYS_NVP1204", "NVP1204.vcproj", "{4C397C9C-A4B3-4F1C-89E1-F0D7CBF4629A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Checked|Win32 = Checked|Win32
+		Free|Win32 = Free|Win32
+		IA64 Checked|Win32 = IA64 Checked|Win32
+		IA64 Free|Win32 = IA64 Free|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C397C9C-A4B3-4F1C-89E1-F0D7CBF4629A}.Checked|Win32.ActiveCfg = Checked|Win32
+		{4C397C9C-A4B3-4F1C-89E1-F0D7CBF4629A}.Checked|Win32.Build.0 = Checked|Win32
+		{4C397C9C-A4B3-4F1C-89E1-F0D7CBF4629A}.Free|Win32.ActiveCfg = Free|Win32
+		{4C397C9C-A4B3-4F1C-89E1-F0D7CBF4629A}.Free|Win32.Build.0 = Free|Win32
+		{4C397C9C-A4B3-4F1C-89E1-F0D7CBF4629A}.IA64 Checked|Win32.ActiveCfg = IA64 Checked|Win32
+		{4C397C9C-A4B3-4F1C-89E1-F0D7CBF4629A}.IA64 Checked|Win32.Build.0 = IA64 Checked|Win32
+		{4C397C9C-A4B3-4F1C-89E1-F0D7CBF4629A}.IA64 Free|Win32.ActiveCfg = IA64 Free|Win32
+		{4C397C9C-A4B3-4F1C-89E1-F0D7CBF4629A}.IA64 Free|Win32.Build.0 = IA64 Free|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
